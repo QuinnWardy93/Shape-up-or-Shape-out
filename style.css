@@ -1,0 +1,29 @@
+#shapes_container {
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    position: relative;
+}
+.circleDiv{
+    position: relative;
+}
+
+.squareDiv{
+    position: relative;
+}
+
+.rectangleDiv{
+    position: relative;
+}
+
+.triangleDiv{
+    position: relative;
+    height: 0;
+    width: 0;
+    border-bottom: solid yellow;
+    border-right: solid transparent;
+}
+
+
+
+
